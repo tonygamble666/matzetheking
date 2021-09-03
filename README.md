@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @matzetheking
+- 👋 Hi, I’m Marcel
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on YOU!
 - 📫 How to reach me ...
 
 <!---
